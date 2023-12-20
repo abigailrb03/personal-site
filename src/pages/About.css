@@ -1,0 +1,103 @@
+.about-wrapper {
+    display: flex;
+    height: 130vh;
+}
+
+.left {
+    display: flex;
+    /* background-color: aliceblue; */
+    height: 100%;
+    width: 50%;
+    flex-direction: column;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: beige; */
+    height: 65%;
+    margin: 4vw;
+}
+
+.hey-there {
+    display: flex;
+    color: #884954;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    align-self: flex-start;
+}
+
+.subtext {
+    display: flex;
+    font-size: 18px;
+}
+
+.main-text {
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    align-self: flex-start;
+    text-align: left;
+}
+
+.right {
+    display: flex;
+    height: 100%;
+    width: 50%;
+    flex-direction: column;
+    padding-left: 3vw;
+}
+
+.img-component-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.img-wrapper {
+    display: flex;
+    height: 70%;
+}
+
+.pic {
+    display: flex;
+    margin-top: 10vh;
+}
+
+.hobbies {
+    display: flex;
+    background-color: #C8BD9F;
+    flex-direction: row;
+    width: 141px;
+    height: 35px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: flex-start;
+    align-content: space-between;
+    position: absolute;
+    z-index: 1;
+    transform: translate(200%, 150%);
+    top: 50%;
+    left: 50%;
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+}
+
+.i-love-to {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 5px;
+    font-weight: 520;
+}
+
+.hobby-item {
+    display: flex;
+    font-weight: bold;
+}
+
