@@ -1,0 +1,29 @@
+/* NavBar.css */
+
+.nav-bar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 10vh;
+  }
+  
+  .nav-button {
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    transition: text-decoration 0.3s ease; /* Add smooth transition for the underline effect */
+  }
+  
+  .nav-button:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
+  .nav-button.active {
+    text-decoration: underline; /* Underline for the active (recently clicked) link */
+  }
+  
