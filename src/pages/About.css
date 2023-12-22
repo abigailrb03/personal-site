@@ -1,6 +1,6 @@
 .about-wrapper {
     display: flex;
-    height: 130vh;
+    height: 100vh;
 }
 
 .left {
@@ -17,7 +17,7 @@
     align-items: center;
     justify-content: center;
     /* background-color: beige; */
-    height: 65%;
+    height: 55%;
     margin: 4vw;
 }
 
@@ -25,7 +25,7 @@
     display: flex;
     color: #884954;
     font-family: 'Raleway', sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -40,8 +40,8 @@
 .main-text {
     display: flex;
     font-family: 'Raleway', sans-serif;
-    font-size: 22px;
-    margin-top: 2vh;
+    font-size: 20px;
+    margin-top: 1vh;
     margin-bottom: 2vh;
     align-self: flex-start;
     text-align: left;
@@ -86,7 +86,7 @@
     top: 50%;
     left: 50%;
     font-family: 'Raleway', sans-serif;
-    font-size: medium;
+    font-size: 300;
 }
 
 .i-love-to {

@@ -1,0 +1,46 @@
+.teaching-wrapper {
+    height: 100vh;
+}
+
+.teaching-left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    /* background-color: beige; */
+    flex-direction: column;
+    justify-content: center;
+}
+
+.teaching-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    padding-left: 6vw;
+    /* background-color: aliceblue; */
+    text-align: left;
+    height: 40%;
+}
+
+.teaching-header-text {
+    display: flex;
+    color: #884954;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.teaching-thoughts-text-wrapper {
+    display: flex;
+    padding-left: 10vw;
+    flex-direction: row;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.teaching-medium-link {
+    padding-left: 5px;
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+}

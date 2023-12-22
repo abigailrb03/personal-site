@@ -2,6 +2,7 @@ import './About.css';
 import mainImg from '../images/abby.jpeg';
 import exploPic from '../images/explo-pic.jpg';
 import exploPic1 from '../images/explopic1.png';
+import pic2 from '../images/otherpic.png';
 import React, { useState, useEffect } from 'react';
 
 
@@ -43,7 +44,7 @@ export default function About() {
             <div className='right'>
                 <div className='img-component-wrapper'>
                     <div className='img-wrapper'>
-                        <img src = {exploPic1} className='pic'></img>
+                        <img src = {pic2} className='pic'></img>
                     </div>
                     <div className='hobbies'>
                         <div className='i-love-to'>
