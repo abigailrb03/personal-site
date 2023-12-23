@@ -10,7 +10,7 @@ function App() {
       <NavBar/>
       <Elsewhere/>
       <About/>
-      <Teaching/>
+      <div id='teaching1'> <Teaching/> </div>
     </div>
   );
 }

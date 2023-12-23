@@ -44,7 +44,7 @@ export default function About() {
             <div className='right'>
                 <div className='img-component-wrapper'>
                     <div className='img-wrapper'>
-                        <img src = {pic2} className='pic'></img>
+                        <img src = {exploPic1} className='pic'></img>
                     </div>
                     <div className='hobbies'>
                         <div className='i-love-to'>

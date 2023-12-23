@@ -18,7 +18,7 @@
     justify-content: center;
     /* background-color: beige; */
     height: 55%;
-    margin: 4vw;
+    margin: 6vw;
 }
 
 .hey-there {
@@ -34,7 +34,7 @@
 
 .subtext {
     display: flex;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 .main-text {
@@ -52,7 +52,7 @@
     height: 100%;
     width: 50%;
     flex-direction: column;
-    padding-left: 3vw;
+    padding-left: 6vw;
 }
 
 .img-component-wrapper {

@@ -3,10 +3,9 @@
 }
 
 .teaching-left{
-    width: 50%;
+    width: 60%;
     height: 100%;
     display: flex;
-    /* background-color: beige; */
     flex-direction: column;
     justify-content: center;
 }
@@ -16,7 +15,6 @@
     flex-direction: column;
     align-self: flex-start;
     padding-left: 6vw;
-    /* background-color: aliceblue; */
     text-align: left;
     height: 40%;
 }
@@ -33,9 +31,9 @@
 
 .teaching-thoughts-text-wrapper {
     display: flex;
-    padding-left: 10vw;
+    padding-left: 6vw;
     flex-direction: row;
-    font-size: 20px;
+    font-size: 19px;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -44,3 +42,34 @@
     font-family: 'Raleway', sans-serif;
     color: #000;
 }
+
+.teaching-experience-header {
+    display: flex;
+    flex-direction: row;
+    padding-top: 2vh;
+    padding-bottom: .5vh;
+    align-items: baseline;
+  }
+  
+  .teaching-resources-text-wrapper {
+    display: flex;
+    font-size: 22px;
+  }
+  
+  .teaching-resources-text {
+    display: flex;
+    padding-left: 4px;
+    font-size: 18px;
+  }
+  
+  .teaching-materials-link {
+    text-decoration: underline;
+    padding-left: 4px;
+    font-size: 18px;
+    color: #000;
+  }
+  
+  .teaching-experience-body {
+    margin-left: 25px; 
+  }
+  
