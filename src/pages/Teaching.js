@@ -27,7 +27,7 @@ import './Teaching.css';
                         </div>
                         </div>
                         <div className='teaching-experience-body'>
-                            I'm currently a student instructor for a data structures course with over 1,000 students. You can find me teaching discussion, answering questions in office hours, and sometimes proctoring exams
+                            I'm currently a TA for a data structures course with over 1,000 students. You can find me teaching discussion, answering questions in office hours, and sometimes proctoring exams
                         </div>
                     </div>
 
@@ -44,7 +44,7 @@ import './Teaching.css';
                         </div>
                         </div>
                         <div className='teaching-experience-body'>
-                            I spent three semesters teaching discussions/labs, staffing office hours, and reviewing assignments for Berkeley's introductory CS class. You can still find me on the course youtube page walking students through homeworks and projects!
+                            I spent three semesters teaching discussions/labs, staffing office hours, and reviewing assignments for Berkeley's introductory CS class. You can still find me on the course youtube channel walking students through homeworks and projects!
                         </div>
                     </div>
 
