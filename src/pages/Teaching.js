@@ -21,7 +21,7 @@ import './Teaching.css';
                             <div className='teaching-resources-text'>
                                 - access my teaching materials
                             </div>
-                            <a href=''
+                            <a href='https://drive.google.com/drive/folders/1_E0MVgwXBhqQv7BKIv1AOy_bm7CS2FRK?usp=sharing'
                                 target='_blank' 
                                 className='teaching-materials-link'> here </a>
                         </div>

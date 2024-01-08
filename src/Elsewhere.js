@@ -17,9 +17,7 @@ export default function Elsewhere() {
 
   return (
     <div className='elsewhere-wrapper'>
-      <div className='elsewhere-text'>
-        <b> elsewhere: </b>
-      </div>
+        <div className='elsewhere'> elsewhere: </div>
       <div className='elsewhere-icons'>
         <img src={git} alt='GitHub' onClick={() => openNewTab('https://github.com/abigailrb03')} />
         <img src={linkedIn} alt='LinkedIn' onClick={() => openNewTab('https://www.linkedin.com/in/abigail03/')} />

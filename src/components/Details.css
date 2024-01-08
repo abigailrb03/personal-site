@@ -1,0 +1,87 @@
+.details-wrapper {
+    display: flex;
+    height: 24vh;
+    border-top: 1px solid black;
+    justify-content: space-between;
+    padding-bottom: 5px;
+    padding-left: 1vw;
+    font-family: 'Raleway', sans-serif;
+}
+
+.details-wrapper-left {
+    display: flex;
+    flex-direction: row;
+    width: 25vw;
+}
+
+.details-header-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 3vw;
+    align-self: flex-start;
+    padding-top: 1vh;
+    text-align: left;
+}
+
+.details-title {
+    display: flex;
+    font-size: 20px;
+    font-weight: 540;
+    padding-bottom: 5px;
+}
+
+.details-description {
+    padding-bottom: 5px;
+}
+
+.details-main-text {
+    align-self: center;
+    width: 23vw;
+    text-align: left;
+}
+
+.dropdown-img {
+    display: flex;
+    height: 8vh;
+    width: 8vh;
+    align-self: flex-start;
+    padding-top: 2vh;
+}
+
+.details-button {
+    background-color: transparent;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding-right: 3vw;
+    align-self: flex-start;
+    padding-top: 3vh;
+}
+
+/* Details.css */
+
+/* Add the styles for tags */
+.tags-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+  
+  .details-tag {
+    padding: 5px 10px;
+    border-radius: 15px;
+  }
+  
+  .solid-bg {
+    background-color: #0A464B; /* Change the color as needed */
+    color: white;
+  }
+  
+  .border-only {
+    border: 1px solid #0A464B; /* Change the color as needed */
+  }
+  

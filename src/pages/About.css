@@ -101,3 +101,13 @@
     font-weight: bold;
 }
 
+
+.main-text {
+    line-height: 1.5; /* Adjust the line height as needed */
+  }
+  
+  .main-text strong {
+    display: inline-block;
+  font-weight: bold;
+  }
+  
