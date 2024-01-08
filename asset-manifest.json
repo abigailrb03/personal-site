@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e0e7249.css",
+    "main.js": "/static/js/main.5a350816.js",
+    "static/js/787.2332a7bc.chunk.js": "/static/js/787.2332a7bc.chunk.js",
+    "static/media/abby.jpeg": "/static/media/abby.6e3035b072f65a15ebcf.jpeg",
+    "static/media/pic3.png": "/static/media/pic3.6abe4cac2ff0e03cdf73.png",
+    "static/media/otherpic.png": "/static/media/otherpic.b401c74892cb63b1bae1.png",
+    "static/media/plants.png": "/static/media/plants.2b2c7dccd6c7820b1fdb.png",
+    "static/media/explopic1.png": "/static/media/explopic1.d00784b73ca601d6c1d7.png",
+    "static/media/d100.png": "/static/media/d100.1620f539db512d85b20e.png",
+    "static/media/explo-pic.jpg": "/static/media/explo-pic.3d0f90412185fcbc9857.jpg",
+    "static/media/etsy.svg": "/static/media/etsy.8dd251aa835ce6bce001e48a775526e3.svg",
+    "static/media/water-background.jpeg": "/static/media/water-background.f1b3b42df6c35da0f214.jpeg",
+    "static/media/spotify.svg": "/static/media/spotify.4664806606e70c5806580f44e2ad3424.svg",
+    "static/media/git.svg": "/static/media/git.d14f38e9d2e1ccca7a45b461776c2976.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.72969f2625033a8c5384c2d00fd019fc.svg",
+    "index.html": "/index.html",
+    "static/media/+.svg": "/static/media/+.a61008d8592abad50dd801062218bd6b.svg",
+    "static/media/minus.svg": "/static/media/minus.8f47ca9493f2626844a5518fa8d920e9.svg",
+    "main.3e0e7249.css.map": "/static/css/main.3e0e7249.css.map",
+    "main.5a350816.js.map": "/static/js/main.5a350816.js.map",
+    "787.2332a7bc.chunk.js.map": "/static/js/787.2332a7bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0e7249.css",
+    "static/js/main.5a350816.js"
+  ]
+}
